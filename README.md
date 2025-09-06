@@ -1,4 +1,4 @@
 			My first repository 
-My name is **maria**;
+My name is maria;
 I study *software technology*
 
